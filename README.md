@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-24 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-11-26 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-09 | [solution](problems/0003-reshape-matrix) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-26 | [solution](problems/0024-single-neuron) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-09 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-24 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-24 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
